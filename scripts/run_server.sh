@@ -1,0 +1,1 @@
+daphne --bind localhost --port 9001 --verbosity 1 figure.asgi:application
